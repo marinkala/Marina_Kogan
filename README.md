@@ -12,7 +12,7 @@ marina.kogan@colorado.edu
 ![profile photo](MontserratThumb.jpg)
 
 ## Website
-
+[Google Scholar](http://scholar.google.com/citations?hl=en&user=ST-2CicAAAAJ&view_op=list_works&gmla=AJsN-F5oM8HrUF2cOO4gT9P2mHCAkVVyGcxFJtFWm7wyoLZPshZ_orPuSzT8tgwhLDyqvww5UYS6uxiI-nVKgOJ1XHjdjWm-Gtk_qCUwJXpP1mwkpkHmE5cFLxvwUXrOYH4dXi6PAQ4Q)
 
 # Current Funding
 Yes, RAship on CHIME NSF grant with Leysia Palen

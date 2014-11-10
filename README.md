@@ -9,7 +9,7 @@ Marina Kogan
 marina.kogan@colorado.edu
 
 ## Photo
-![profile photo](1FzZrZPMvoGScsgVuGLSlshMDVOJHn4Q1wYzLt6YA4rU-photo-0.png)
+![profile photo](MontserratThumb.jpg)
 
 ## Website
 
@@ -84,17 +84,22 @@ Leysia Palen
 # Highlights
 
 
-## 
+## Three-neasrest-neighbor racial network of Baltimore in 1880
 
 
-![highlight](1FzZrZPMvoGScsgVuGLSlshMDVOJHn4Q1wYzLt6YA4rU-highlight0-0.png)
+![highlight](Baltimore.png)
 
 
 
-## 
+## Spatial Distribution of Hurricane Sandy-related tweets
 
 
-![highlight](1FzZrZPMvoGScsgVuGLSlshMDVOJHn4Q1wYzLt6YA4rU-highlight1-0.png)
+![highlight](Tweets.png)
+
+## Distributions of the last lead change time for NBA
+
+
+![highlight](NBAvarBinned.png)
 
 
 

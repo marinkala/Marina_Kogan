@@ -55,20 +55,18 @@ Leysia Palen
 
 ## Publications
 
-
+* Kogan, M., Palen L., and Anderson K. (To appear 2015). Tweet Local, Retweet Global: Retweeting by the Geographically-Vulnerable during Hurricane Sandy. To appear in CSCW 2015. [[Link]](https://www.cs.colorado.edu/~palen/palen_papers/CSCW-SandyRetweetPaperCR.pdf)
+* Laursen, S.L., Hassi, M.-L., Kogan, M., Hunter, A.-B., & Weston, T. (2014). Benefits for Women and Men of Inquiry-based Learning in College Mathematics: A Multi-institution Study. Journal for Research in Mathematics Education.
 * Kogan, M., & Laursen, S. L. (2013).  Assessing long-term effects of inquiry-based learning:  A case study from college mathematics.  Innovative Higher Education, 39(3).
-* Laursen, S.L., Hassi, M.-L., Kogan, M., Hunter, A.-B., & Weston, T. (accepted). Benefits for Women and Men of Inquiry-based Learning in College Mathematics: A Multi-institution Study. Journal for Research in Mathematics Education.
+
 
 
 ## Presentations
 
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
       
 ## Awards
 
-
+* CRA-W Cohort
 * GK-12 NSF fellowship
 * Research Community Development Award, 2012
 

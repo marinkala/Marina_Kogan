@@ -62,7 +62,7 @@ Leysia Palen
 
 
 ## Presentations
-
+* Finding the right information in disaster: assessing relevance and reliability of tweets from the Hurricane Sandy. Poster. CRA-W Graduate Cohort Workshop, 2014.
       
 ## Awards
 

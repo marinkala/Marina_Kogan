@@ -15,7 +15,7 @@ marina.kogan@colorado.edu
 
 
 # Current Funding
-Yes, GK-12 Grant.Contract signed through August 2013
+Yes, RAship on CHIME NSF grant with Leysia Palen
 
 # PhD Program
 
@@ -23,16 +23,16 @@ Yes, GK-12 Grant.Contract signed through August 2013
 Leysia Palen
 
 ## Committee
-
+* Leysia Palen
 
 ## Milestones
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
-| Dissertation Defense | {semester} {year} | {semester} {year} |
+| Start                | Fall 2012 |                   |
+| Area Exam            |  | Spring 2015 |
+| Proposal Defense     |  | Fall 2015 |
+| Dissertation Defense |  | Spring 2017 |
 
 ## Courses
 
@@ -75,8 +75,8 @@ Leysia Palen
 
 # Service
 
-* {one sentence summary}
-* {one sentence summary}
+* Discovery Science 2014
+* Disocvery Science 2013
 * {one sentence summary}
 
 # Highlights

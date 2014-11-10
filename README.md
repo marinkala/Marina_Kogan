@@ -66,22 +66,20 @@ Leysia Palen
       
 ## Awards
 
-* CRA-W Cohort
+* CRA-W Grad Cohort, 2014
 * GK-12 NSF fellowship
 * Research Community Development Award, 2012
 
 
 # Teaching
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
+* Sociology, AP Government - Boudler High School, ECSITE Fellow, 2013-2014
+* Sociology, AP Government, Video Production - Boudler High School, ECSITE Fellow, 2012-2013
 
 # Service
 
-* Discovery Science 2014
-* Disocvery Science 2013
-* {one sentence summary}
+* Science Discovery Summer Class, 2014
+* Science Discovery Summer Class, 2013
 
 # Highlights
 

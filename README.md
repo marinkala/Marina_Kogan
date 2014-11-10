@@ -9,7 +9,7 @@ Marina Kogan
 marina.kogan@colorado.edu
 
 ## Photo
-![profile photo](files/1FzZrZPMvoGScsgVuGLSlshMDVOJHn4Q1wYzLt6YA4rU-photo-0.png)
+![profile photo](1FzZrZPMvoGScsgVuGLSlshMDVOJHn4Q1wYzLt6YA4rU-photo-0.png)
 
 ## Website
 
@@ -85,14 +85,14 @@ Leysia Palen
 ## 
 
 
-![highlight](files/1FzZrZPMvoGScsgVuGLSlshMDVOJHn4Q1wYzLt6YA4rU-highlight0-0.png)
+![highlight](1FzZrZPMvoGScsgVuGLSlshMDVOJHn4Q1wYzLt6YA4rU-highlight0-0.png)
 
 
 
 ## 
 
 
-![highlight](files/1FzZrZPMvoGScsgVuGLSlshMDVOJHn4Q1wYzLt6YA4rU-highlight1-0.png)
+![highlight](1FzZrZPMvoGScsgVuGLSlshMDVOJHn4Q1wYzLt6YA4rU-highlight1-0.png)
 
 
 

@@ -84,19 +84,19 @@ Leysia Palen
 # Highlights
 
 
-## Three-neasrest-neighbor racial network of Baltimore in 1880
+### Three-neasrest-neighbor spatial network of Baltimore in 1880
 
 
 ![highlight](Baltimore.png)
 
 
 
-## Spatial Distribution of Hurricane Sandy-related tweets
+### Spatial Distribution of Hurricane Sandy-related tweets
 
 
 ![highlight](Tweets.png)
 
-## Distributions of the last lead change time for NBA
+### Distributions of the last lead change time for NBA
 
 
 ![highlight](NBAvarBinned.png)

@@ -38,12 +38,18 @@ Leysia Palen
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| CSCI 7000  Inference, Models and Simulation for Complex Systems | Fall 2011 |  | yes | no|
+| APPM 5560 Markov Processes| Fall 2012 | | yes| no|
+| CSCI 7222 Probabilistic Models of Human and Machine Intelligence | Fall 2012 |  | yes | no|
+| CSCI 6000 Introduction to CSCI PhD Program| Fall 2012 |  | no | no|
+| CSCI 5454 Design and Analysis of Algorithms | Spring 2013 |  | no | yes |
+| CSCI 5502 Data Mining | Spring 2013 |  | no | yes |
+| CSCI 5832 Natural Language Processing | Fall 2013 |  | no | yes |
+| CSCI 5919 HCI Survey and Synthesis | Fall 2013 |  | no | yes |
+| CSCI 5622 Machine Learning | Spring 2014 |  | no | yes |
+| CSCI 7900 Doctor's Level Independent Study | Spring 2014 |  | yes | no |
+| CSCI 5352 Network Analysis and Modeling | Fall 2104 |  | yes | no |
+| CSCI 7900 Doctor's Level Independent Study | Fall 2014 |  | yes | no |
 
 # Research
 
